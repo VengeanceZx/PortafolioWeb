@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1675906709652,
+  "timestamp": 1675907854499,
   "index": "/PortafolioWeb/index.html",
   "assetGroups": [
     {
@@ -19,7 +19,7 @@
         "/PortafolioWeb/manifest.webmanifest",
         "/PortafolioWeb/polyfills.d91dbfbd857a20b1.js",
         "/PortafolioWeb/runtime.1969f7a316aab3e9.js",
-        "/PortafolioWeb/styles.22467eb1e3602f22.css"
+        "/PortafolioWeb/styles.ab9b199da700ba33.css"
       ],
       "patterns": []
     },
@@ -180,12 +180,12 @@
     "/PortafolioWeb/assets/technologies/wordpress.png": "507a6ac3a84400172686cec9511965f01b81079a",
     "/PortafolioWeb/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
     "/PortafolioWeb/home-bg.93f3392a40f42d94.jpg": "7598f7b6abc7679edb9221392802c8cdf191fdb3",
-    "/PortafolioWeb/index.html": "53db8e68f0829284d7faf5634bc4f8c2a7e3fd37",
+    "/PortafolioWeb/index.html": "20cc48fa0734553552c6f482d2c777693a5d2ed8",
     "/PortafolioWeb/main.2653adf9ff045a66.js": "b8beea80c205cad5cee85c3fa3a5a649b64adfe7",
     "/PortafolioWeb/manifest.webmanifest": "ea658b1e9d30069c4190a375bb27fcba09afb2af",
     "/PortafolioWeb/polyfills.d91dbfbd857a20b1.js": "061b02278d8132cce38a70aa7b6c07122ae249c8",
     "/PortafolioWeb/runtime.1969f7a316aab3e9.js": "1f90d667d601cecce507a1f56a3aca8258120f07",
-    "/PortafolioWeb/styles.22467eb1e3602f22.css": "78bf3cef1672dd539ef6a6459ec5dbaa90f26050"
+    "/PortafolioWeb/styles.ab9b199da700ba33.css": "d4ea0a44218ac4ce5333766d7efc8599ca05b929"
   },
   "navigationUrls": [
     {
