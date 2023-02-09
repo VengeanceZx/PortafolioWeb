@@ -3,7 +3,7 @@
  Portafolio Web de presentación creado como una PWA presentar los conocimientos y experiencia adquiridos
   </p>
 
-_Puede visualizar el proyecto desplegado en la web https://skyzerozx.com_
+_Puede visualizar el proyecto desplegado en la web https://vengenace.github.io/PortafolioWeb/
 
  ## :ledger: Index
 
@@ -61,9 +61,9 @@ _Haciendo uso de la herramienta *https://pagespeed.web.dev/* , se evaluo el tiem
 
 _Obtuviendo un puntaje de **97** en rendimiento en mobile y **100** en desktop_
 
-![Performance PageSpeed 1](/docs/performance/performance-mobile.png)
+![Performance PageSpeed 1](/docs/performance/performance-mobile.jpeg)
 
-![Performance PageSpeed 2](/docs/performance/performance-desktop.png)
+![Performance PageSpeed 2](/docs/performance/performance-desktop.jpeg)
 
 
 # Analisis de Codigo 🔩
