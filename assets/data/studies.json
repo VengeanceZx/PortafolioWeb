@@ -1,0 +1,29 @@
+[ 
+  {
+    "id": "study-1",
+    "institution": "Udemy",
+    "name": "Angular",
+    "duration": "2022"
+  },
+  {
+    "id": "study-2",
+    "institution": "Udemy",
+    "name": "ASP.Net Core 6.0",
+    "duration": "2022"
+  },
+  {
+    "id": "study-3",
+    "grade": "Bachiller",
+    "institution":"Universidad Nacional del Callao",
+    "name":"Ingenieria de Sistemas",
+    "duration":"Julio 2016 - Agosto 2021",
+    "description":
+      "Egresado en el quinto superior de la universidad"
+  },
+  {
+    "id": "study-4",
+    "institution": "Sistemas UNI",
+    "name": "Java Developer ",
+    "duration": "Enero 2019 - Marzo 2019"
+  }
+]
