@@ -9,7 +9,8 @@
     "production": "ng build --configuration production",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "sonar": "sonar-scanner"
+    "sonar": "sonar-scanner",
+    "deploy": "ng deploy --base-href=/PortafolioWeb/"
   },
   "private": true,
   "dependencies": {
