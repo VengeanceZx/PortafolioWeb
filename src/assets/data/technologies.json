@@ -1,0 +1,100 @@
+[
+  {
+    "name": "Javascript",
+    "src": "assets/technologies/javascript.svg"
+  },
+  {
+    "name": "Typescript",
+    "src": "assets/technologies/typescript.svg"
+  },
+  {
+    "name": "Angular",
+    "src": "assets/technologies/angular.svg"
+  },
+  {
+    "name": "SonarQube",
+    "src": "assets/technologies/sonar.webp"
+  },
+  {
+    "name": "Express",
+    "isDark": true,
+    "src": "assets/technologies/express.svg"
+  },
+  {
+    "name": "NodeJS",
+    "src": "assets/technologies/nodejs.svg"
+  },
+  {
+    "name": "NPM",
+    "src": "assets/technologies/npm.svg"
+  },
+  {
+    "name": "HTML 5",
+    "src": "assets/technologies/html5.svg"
+  },
+  {
+    "name": "CSS",
+    "src": "assets/technologies/css3.svg"
+  },
+  {
+    "name": "Bootstrap",
+    "src": "assets/technologies/bootstrap.svg"
+  },
+  {
+    "name": "Material UI",
+    "src": "assets/technologies/materialui.svg"
+  },
+  {
+    "name": "TailwindCSS",
+    "src": "assets/technologies/tailwindcss.svg"
+  },
+  {
+    "name": "GIT",
+    "src": "assets/technologies/git.svg"
+  },
+  {
+    "name": "GitHub",
+    "isDark": true,
+    "src": "assets/technologies/github.svg"
+  },
+  {
+    "name": "Swagger",
+    "src": "assets/technologies/swagger.svg"
+  },
+  {
+    "name": "Terminal",
+    "src": "assets/technologies/terminal.png"
+  },
+  {
+    "name": "Power BI",
+    "src": "assets/technologies/power-bi.svg"
+  },
+  {
+    "name": "WordPress",
+    "src": "assets/technologies/wordpress.png"
+  },
+  {
+    "name": "Jira",
+    "src": "assets/technologies/jira.svg"
+  },
+  {
+    "name": "MySQL",
+    "src": "assets/technologies/mysql.svg"
+  },
+  {
+    "name": "MS SQL Server",
+    "src": "assets/technologies/ms-sql-server.png"
+  },
+  {
+    "name": "Oracle DB",
+    "src": "assets/technologies/oracle.svg"
+  },
+  {
+    "name": "Service Now",
+    "src": "assets/technologies/Servicenow.svg"
+  },
+  {
+    "name": "Microsoft 365",
+    "src": "assets/technologies/Microsoft_365_(2022).svg.png"
+  }
+]
