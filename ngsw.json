@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1675908957720,
+  "timestamp": 1675909443332,
   "index": "/PortafolioWeb/index.html",
   "assetGroups": [
     {
@@ -11,14 +11,14 @@
         "ignoreVary": true
       },
       "urls": [
-        "/PortafolioWeb/213.cd70d8c0ad009468.js",
+        "/PortafolioWeb/213.8b97ab6a32306e6a.js",
         "/PortafolioWeb/226.e39dd17db77c4791.js",
         "/PortafolioWeb/favicon.ico",
         "/PortafolioWeb/index.html",
         "/PortafolioWeb/main.2653adf9ff045a66.js",
         "/PortafolioWeb/manifest.webmanifest",
         "/PortafolioWeb/polyfills.d91dbfbd857a20b1.js",
-        "/PortafolioWeb/runtime.b4ecee13863bfb20.js",
+        "/PortafolioWeb/runtime.6a0607c34c2f4365.js",
         "/PortafolioWeb/styles.ab9b199da700ba33.css"
       ],
       "patterns": []
@@ -52,6 +52,7 @@
         "/PortafolioWeb/assets/icons/icon-96x96.png",
         "/PortafolioWeb/assets/images/home-bg.jpg",
         "/PortafolioWeb/assets/images/home-bg_1.jpg",
+        "/PortafolioWeb/assets/images/home-bg_2.jpg",
         "/PortafolioWeb/assets/portfolio/sky-bot.svg",
         "/PortafolioWeb/assets/portfolio/sky-krono.svg",
         "/PortafolioWeb/assets/technologies/Microsoft_365_(2022).svg.png",
@@ -100,14 +101,14 @@
         "/PortafolioWeb/assets/technologies/terminal.png",
         "/PortafolioWeb/assets/technologies/typescript.svg",
         "/PortafolioWeb/assets/technologies/wordpress.png",
-        "/PortafolioWeb/home-bg.93f3392a40f42d94.jpg"
+        "/PortafolioWeb/home-bg.1d848ce7a16234fe.jpg"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/PortafolioWeb/213.cd70d8c0ad009468.js": "5dc49f633e4900d994a3e5ac131291364b553079",
+    "/PortafolioWeb/213.8b97ab6a32306e6a.js": "4d951fb91b77400c1df269af1616e16e7fbab139",
     "/PortafolioWeb/226.e39dd17db77c4791.js": "bd28c0452530094aa0e7cf0791ab09c9935c2b17",
     "/PortafolioWeb/assets/data/experience.json": "64216835ae6fa14dff5565d86bab6fa9ee1ef177",
     "/PortafolioWeb/assets/data/portfolio-proyects.json": "2d343cf9352f0cdb7285ebb7b584fdef36138cd6",
@@ -128,8 +129,9 @@
     "/PortafolioWeb/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
     "/PortafolioWeb/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/PortafolioWeb/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "/PortafolioWeb/assets/images/home-bg.jpg": "7598f7b6abc7679edb9221392802c8cdf191fdb3",
+    "/PortafolioWeb/assets/images/home-bg.jpg": "8aa5791c92d3dd79dfdbba00fc15f2a31eabb0a5",
     "/PortafolioWeb/assets/images/home-bg_1.jpg": "a34a9b5b4ec4202192d210956ba91f8244f7e943",
+    "/PortafolioWeb/assets/images/home-bg_2.jpg": "7598f7b6abc7679edb9221392802c8cdf191fdb3",
     "/PortafolioWeb/assets/portfolio/sky-bot.svg": "f7770fb2402ba09d2ef78fcab4993151a60f79b9",
     "/PortafolioWeb/assets/portfolio/sky-krono.svg": "b14213b79abb8ecb1e44768587af572b4d54b824",
     "/PortafolioWeb/assets/technologies/Microsoft_365_(2022).svg.png": "13aa35b8363125cb7836baa51318488291fe0067",
@@ -179,12 +181,12 @@
     "/PortafolioWeb/assets/technologies/typescript.svg": "172b4c53910703b9282b3c28a86ba3a2394563b5",
     "/PortafolioWeb/assets/technologies/wordpress.png": "507a6ac3a84400172686cec9511965f01b81079a",
     "/PortafolioWeb/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/PortafolioWeb/home-bg.93f3392a40f42d94.jpg": "7598f7b6abc7679edb9221392802c8cdf191fdb3",
-    "/PortafolioWeb/index.html": "99cbc413378a9a1644061e7544d887bb58d1e208",
+    "/PortafolioWeb/home-bg.1d848ce7a16234fe.jpg": "8aa5791c92d3dd79dfdbba00fc15f2a31eabb0a5",
+    "/PortafolioWeb/index.html": "bd9325df0b768f7f3aa0d2b64d4af2f512a55e81",
     "/PortafolioWeb/main.2653adf9ff045a66.js": "b8beea80c205cad5cee85c3fa3a5a649b64adfe7",
     "/PortafolioWeb/manifest.webmanifest": "ea658b1e9d30069c4190a375bb27fcba09afb2af",
     "/PortafolioWeb/polyfills.d91dbfbd857a20b1.js": "061b02278d8132cce38a70aa7b6c07122ae249c8",
-    "/PortafolioWeb/runtime.b4ecee13863bfb20.js": "1d4a32cb8711c64d81f3f219ecb3a6084ead1bb5",
+    "/PortafolioWeb/runtime.6a0607c34c2f4365.js": "6385861228045d67ca9a45a6ffc348ee2e61c3e4",
     "/PortafolioWeb/styles.ab9b199da700ba33.css": "d4ea0a44218ac4ce5333766d7efc8599ca05b929"
   },
   "navigationUrls": [
