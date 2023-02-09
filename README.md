@@ -109,6 +109,6 @@ Usamos [GIT](https://git-scm.com/) para el versionado.
 
 ## Autor✒️
 
-- **Jaime Burgos Tejada** - _Developer_
-- [SkyZeroZx](https://github.com/SkyZeroZx)
-- Email : jaimeburgostejada@gmail.com
+- **Omar Ramos More** - _Developer_
+- [Vengeance](https://github.com/Vengenace)
+- Email : omar_0398@hotmail.com
