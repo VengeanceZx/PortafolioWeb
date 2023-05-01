@@ -28,15 +28,15 @@
   },
   {
     "id": "study-5",
-    "institution": "Udemy",
-    "name": "ASP.Net Core 6.0",
+    "institution": "Udemy - DevTalles",
+    "name": "Clean Code y Fundamentos SOLID",
     "duration": "2022"
   },
   {
     "id": "study-6",
-    "institution": "Udemy - DevTalles",
-    "name": "Web APIs (NET 7)",
-    "duration": "Abril 2023"
+    "institution": "Udemy",
+    "name": "Web APIs - Net 7",
+    "duration": "2023"
   },
   {
     "id": "study-7",
