@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1677633687769,
+  "timestamp": 1682900200588,
   "index": "/PortafolioWeb/index.html",
   "assetGroups": [
     {
@@ -11,14 +11,14 @@
         "ignoreVary": true
       },
       "urls": [
-        "/PortafolioWeb/213.b9e51de92d7b1385.js",
+        "/PortafolioWeb/213.741846270ef61de4.js",
         "/PortafolioWeb/226.e39dd17db77c4791.js",
         "/PortafolioWeb/favicon.ico",
         "/PortafolioWeb/index.html",
         "/PortafolioWeb/main.2653adf9ff045a66.js",
         "/PortafolioWeb/manifest.webmanifest",
         "/PortafolioWeb/polyfills.d91dbfbd857a20b1.js",
-        "/PortafolioWeb/runtime.5d4833d9c83a3830.js",
+        "/PortafolioWeb/runtime.15ccf65e21e1df5d.js",
         "/PortafolioWeb/styles.ab9b199da700ba33.css"
       ],
       "patterns": []
@@ -60,6 +60,8 @@
         "/PortafolioWeb/assets/technologies/angular.svg",
         "/PortafolioWeb/assets/technologies/auth0.svg",
         "/PortafolioWeb/assets/technologies/aws.svg",
+        "/PortafolioWeb/assets/technologies/blackboard.ico",
+        "/PortafolioWeb/assets/technologies/blackboard_learn.png",
         "/PortafolioWeb/assets/technologies/bootstrap.svg",
         "/PortafolioWeb/assets/technologies/css3.svg",
         "/PortafolioWeb/assets/technologies/cypress.png",
@@ -108,12 +110,12 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/PortafolioWeb/213.b9e51de92d7b1385.js": "9a5577f58fd72ad8dcffd6fccf5807e4c13ff94a",
+    "/PortafolioWeb/213.741846270ef61de4.js": "22fa98c0963191043d5605dcebeeb0f7eabf7e21",
     "/PortafolioWeb/226.e39dd17db77c4791.js": "bd28c0452530094aa0e7cf0791ab09c9935c2b17",
     "/PortafolioWeb/assets/data/experience.json": "64216835ae6fa14dff5565d86bab6fa9ee1ef177",
     "/PortafolioWeb/assets/data/portfolio-proyects.json": "06f5849b3af77f631f53405ace638168de48cee9",
-    "/PortafolioWeb/assets/data/studies.json": "3499c2837dfff5de4537b1e0a192eccf15d1d01c",
-    "/PortafolioWeb/assets/data/technologies.json": "4aa4737efaac302da10025913ebdf1af71875275",
+    "/PortafolioWeb/assets/data/studies.json": "098282e4b3fa3a7ceb407e7a613af86e7e6258c9",
+    "/PortafolioWeb/assets/data/technologies.json": "bf5f737731d5a2e8ae1695b313c6a40e2dffb50b",
     "/PortafolioWeb/assets/fonts/fonts.css": "5024e69ebb5641479e32a56de46369110e34ec6d",
     "/PortafolioWeb/assets/fonts/poppins-v15-latin-500.woff": "976ff0812985dc92355cf7fdd9d2c7807a3c750a",
     "/PortafolioWeb/assets/fonts/poppins-v15-latin-500.woff2": "d67ccd32f8c790a746d64d06145882a2f7b06560",
@@ -139,6 +141,8 @@
     "/PortafolioWeb/assets/technologies/angular.svg": "e43a6aa17a128037b8562069b398163e13e2930c",
     "/PortafolioWeb/assets/technologies/auth0.svg": "bb116c9d65268f68b7e97e893839b76858b71be9",
     "/PortafolioWeb/assets/technologies/aws.svg": "1380af1a18fe5109584a08f49edbb993399efcd4",
+    "/PortafolioWeb/assets/technologies/blackboard.ico": "bdc1338cf51c5811cb3991ceee3a63c5653d1c16",
+    "/PortafolioWeb/assets/technologies/blackboard_learn.png": "9adf109021d838b786c85fd21ba981df4ab7399c",
     "/PortafolioWeb/assets/technologies/bootstrap.svg": "9bcb03b5d2d6b2f48095d7c81f3c82869f143e7b",
     "/PortafolioWeb/assets/technologies/css3.svg": "ae60ffb4b56f905da6281e86203c1d4b996aab69",
     "/PortafolioWeb/assets/technologies/cypress.png": "eaece35d188415037a3b3d4532a8588ce2e14ded",
@@ -182,11 +186,11 @@
     "/PortafolioWeb/assets/technologies/wordpress.png": "507a6ac3a84400172686cec9511965f01b81079a",
     "/PortafolioWeb/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
     "/PortafolioWeb/home-bg.1d848ce7a16234fe.jpg": "8aa5791c92d3dd79dfdbba00fc15f2a31eabb0a5",
-    "/PortafolioWeb/index.html": "3e9481bfe54929288e052cf9ec6ab94c94428fc8",
+    "/PortafolioWeb/index.html": "66a74f16484f2105571a0d1b6024c9ab565cd1fd",
     "/PortafolioWeb/main.2653adf9ff045a66.js": "b8beea80c205cad5cee85c3fa3a5a649b64adfe7",
     "/PortafolioWeb/manifest.webmanifest": "16661e2da0df3ce70a1dc5d94f60e0a491985f89",
     "/PortafolioWeb/polyfills.d91dbfbd857a20b1.js": "061b02278d8132cce38a70aa7b6c07122ae249c8",
-    "/PortafolioWeb/runtime.5d4833d9c83a3830.js": "9af66cd10231592db248ec77f8109141dc782c0f",
+    "/PortafolioWeb/runtime.15ccf65e21e1df5d.js": "37e65f6eaa060f3205a15b5ddaab07ea9bbc5b0e",
     "/PortafolioWeb/styles.ab9b199da700ba33.css": "d4ea0a44218ac4ce5333766d7efc8599ca05b929"
   },
   "navigationUrls": [
