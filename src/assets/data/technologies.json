@@ -96,5 +96,9 @@
   {
     "name": "Microsoft 365",
     "src": "assets/technologies/Microsoft_365_(2022).svg.png"
+  },
+  {
+    "name": "BlackBoard",
+    "src": "assets/technologies/blackboard_learn.png"
   }
 ]
