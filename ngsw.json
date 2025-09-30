@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1683827456124,
+  "timestamp": 1759204733564,
   "index": "/PortafolioWeb/index.html",
   "assetGroups": [
     {
@@ -11,14 +11,14 @@
         "ignoreVary": true
       },
       "urls": [
-        "/PortafolioWeb/213.29f8cc86b5442e7a.js",
+        "/PortafolioWeb/213.c6003d981745ab69.js",
         "/PortafolioWeb/226.e39dd17db77c4791.js",
         "/PortafolioWeb/favicon.ico",
         "/PortafolioWeb/index.html",
         "/PortafolioWeb/main.2653adf9ff045a66.js",
         "/PortafolioWeb/manifest.webmanifest",
         "/PortafolioWeb/polyfills.d91dbfbd857a20b1.js",
-        "/PortafolioWeb/runtime.e98c4d77ce1e88a5.js",
+        "/PortafolioWeb/runtime.f6c862b37585f3d8.js",
         "/PortafolioWeb/styles.ab9b199da700ba33.css"
       ],
       "patterns": []
@@ -110,11 +110,11 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/PortafolioWeb/213.29f8cc86b5442e7a.js": "55352411822da8c96157ca5fa9c1d83ba05777a4",
+    "/PortafolioWeb/213.c6003d981745ab69.js": "b665f2f69518a854c70e91df1467cb523ccbc769",
     "/PortafolioWeb/226.e39dd17db77c4791.js": "bd28c0452530094aa0e7cf0791ab09c9935c2b17",
-    "/PortafolioWeb/assets/data/experience.json": "eb8ce5279eff457e9d3c757e78b585ca8dac4d67",
+    "/PortafolioWeb/assets/data/experience.json": "2ba45ee37efd8a6839fed3c82ba10864ac44d018",
     "/PortafolioWeb/assets/data/portfolio-proyects.json": "06f5849b3af77f631f53405ace638168de48cee9",
-    "/PortafolioWeb/assets/data/studies.json": "4204664224bc3774cca4f0f4f4b937d16b1749a8",
+    "/PortafolioWeb/assets/data/studies.json": "8824eb7ab47f7d80e02fb65573d763c11e502748",
     "/PortafolioWeb/assets/data/technologies.json": "bf5f737731d5a2e8ae1695b313c6a40e2dffb50b",
     "/PortafolioWeb/assets/fonts/fonts.css": "5024e69ebb5641479e32a56de46369110e34ec6d",
     "/PortafolioWeb/assets/fonts/poppins-v15-latin-500.woff": "976ff0812985dc92355cf7fdd9d2c7807a3c750a",
@@ -186,11 +186,11 @@
     "/PortafolioWeb/assets/technologies/wordpress.png": "507a6ac3a84400172686cec9511965f01b81079a",
     "/PortafolioWeb/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
     "/PortafolioWeb/home-bg.1d848ce7a16234fe.jpg": "8aa5791c92d3dd79dfdbba00fc15f2a31eabb0a5",
-    "/PortafolioWeb/index.html": "c8ea47b3b50fcd0de3448cae0a63f76537591924",
+    "/PortafolioWeb/index.html": "7901efc985736930c8f360ef72f26ac4ddedbf56",
     "/PortafolioWeb/main.2653adf9ff045a66.js": "b8beea80c205cad5cee85c3fa3a5a649b64adfe7",
     "/PortafolioWeb/manifest.webmanifest": "16661e2da0df3ce70a1dc5d94f60e0a491985f89",
     "/PortafolioWeb/polyfills.d91dbfbd857a20b1.js": "061b02278d8132cce38a70aa7b6c07122ae249c8",
-    "/PortafolioWeb/runtime.e98c4d77ce1e88a5.js": "eda1429c6b2c14ac9c632d4a584cc7f76c250d5e",
+    "/PortafolioWeb/runtime.f6c862b37585f3d8.js": "13a6f72ad82e5c3b61911609d830f70f9a6579c3",
     "/PortafolioWeb/styles.ab9b199da700ba33.css": "d4ea0a44218ac4ce5333766d7efc8599ca05b929"
   },
   "navigationUrls": [

@@ -43,5 +43,11 @@
     "institution": "Coursera",
     "name": "Introduction to Microsoft Azure Cloud Services",
     "duration": "Febrero 2023"
+  },
+  {
+    "id": "study-8",
+    "institution": "Cibertec",
+    "name": "Especialización en Desarrollo de Aplicaciones Empresariales con Visual Studio 2022",
+    "duration": "2024 - 2025"
   }
 ]
